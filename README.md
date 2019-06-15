@@ -1,2 +1,4 @@
-# Aubo_Face_follow
-情绪识别与人脸跟随
+# 环境说明
+opencv3加上openblas
+# 内容说明
+calib.xml是相机内参要自己去标记。
